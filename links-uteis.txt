@@ -24,7 +24,11 @@ https://openweathermap.org/api
 // API Google Maps
 https://developers.google.com/maps?hl=pt-br
 
-// 
+// JSON Placeholder 
+https://jsonplaceholder.typicode.com/
+
+// Random Daata API 
+https://random-data-api.com/
 
 Fontes e inspirações para cores:
 

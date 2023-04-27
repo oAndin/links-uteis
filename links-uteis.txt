@@ -1,36 +1,35 @@
-Organização:
-
+# Organização:
 https://app.codeplanner.co/projects
 
-APIs: 
-// IMDb
-https://www.omdbapi.com/ 
+# APIs: 
+## // IMDb
+## https://www.omdbapi.com/ 
 
-// Pokemon API 
-https://pokeapi.co/
+## // Pokemon API
+## https://pokeapi.co/
 
-// Avatars 
-https://www.dicebear.com/
+## // Avatars 
+## https://www.dicebear.com/
 
-// New York Times api
-https://developer.nytimes.com/apis
+## // New York Times api
+## https://developer.nytimes.com/apis
 
-//Fixer taxa de cambio 
-https://fixer.io/
+## //Fixer taxa de cambio 
+## https://fixer.io/
 
-//Open Weather API
-https://openweathermap.org/api
+## //Open Weather API
+## https://openweathermap.org/api
 
-// API Google Maps
+## // API Google Maps
 https://developers.google.com/maps?hl=pt-br
 
-// JSON Placeholder 
-https://jsonplaceholder.typicode.com/
+## // JSON Placeholder 
+## https://jsonplaceholder.typicode.com/
 
-// Random Daata API 
-https://random-data-api.com/
+## // Random Daata API 
+## https://random-data-api.com/
 
-Fontes e inspirações para cores:
+# Fontes e inspirações para cores:
 
 https://aicolors.co
 https://color.adobe.com/pt/create/color-wheel

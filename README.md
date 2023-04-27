@@ -2,7 +2,7 @@
 ## Just a simple file to remind me of some useful links where i can get inspired! 
 
 # Organização:
-https://app.codeplanner.co/projects
+## https://app.codeplanner.co/projects
 
 # APIs: 
 ## // IMDb
@@ -37,10 +37,10 @@ https://developers.google.com/maps?hl=pt-br
 https://aicolors.co
 https://color.adobe.com/pt/create/color-wheel
 
-Inspirações para menus animados: 
+# Inspirações para menus animados: 
 
 https://march08.github.io/animated-burgers/
 
-#  // Ferramentas para imagens 
+# // Ferramentas para imagens 
 
 https://www.photoroom.com/pt-br

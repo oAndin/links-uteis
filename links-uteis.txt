@@ -41,3 +41,14 @@ https://march08.github.io/animated-burgers/
 #  // Ferramentas para imagens 
 
 https://www.photoroom.com/pt-br
+
+# Extensões do Google Chrome 
+
+## // What Font
+### https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
+
+## // Light House 
+### https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
+
+## // Panda 5 
+### https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko?hl=pt

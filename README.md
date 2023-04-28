@@ -32,6 +32,9 @@ https://developers.google.com/maps?hl=pt-br
 ## // Random Daata API 
 ## https://random-data-api.com/
 
+## // GIPHY
+# https://developers.giphy.com/
+
 # Fontes e inspirações para cores:
 
 https://aicolors.co
